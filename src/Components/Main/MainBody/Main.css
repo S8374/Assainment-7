@@ -1,0 +1,28 @@
+.section2{
+    background-image: url('/src/assets/img/img.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    width:100%;
+    border-radius: 24px ;
+    display: flex;
+    justify-content: center; 
+    text-align: center;
+    align-items: center;
+   
+}
+.button{
+    width: 181px;
+    height: 64px;
+    padding: 20px 30px 20px 30px ;
+    border-radius: 50px;
+    color: black;
+    background: rgb(11, 229, 138);
+}
+.bt2{
+    border: 1px solid white;
+    width: 195px;
+height: 64px;
+padding: 20px 30px 20px 30px;
+border-radius: 50px;
+}
